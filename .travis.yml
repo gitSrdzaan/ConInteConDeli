@@ -3,4 +3,6 @@ language: java
 
 os : windows
 
+os : windows
+
 script: ./mvnw clean compile install
